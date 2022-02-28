@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.706dcf89.css",
+    "main.js": "/static/js/main.f23d6bc2.js",
+    "static/media/pinpng 1.png": "/static/media/pinpng 1.78afbad6cc8d6800421b.png",
+    "static/media/Rectangle 12-4.png": "/static/media/Rectangle 12-4.2fe8624b5ede9d0cafd1.png",
+    "static/media/Rectangle 12-5.png": "/static/media/Rectangle 12-5.b86cdb3aedf59868cec1.png",
+    "static/media/Rectangle 12-1.png": "/static/media/Rectangle 12-1.3ac8f1d043d487d567cd.png",
+    "static/media/Rectangle 12-3.png": "/static/media/Rectangle 12-3.51b975c02eecabef25e5.png",
+    "static/media/Rectangle 12.png": "/static/media/Rectangle 12.540cbd4b6e19491a1a52.png",
+    "static/media/Rectangle 12-2.png": "/static/media/Rectangle 12-2.6a8c2217bdbf6a6ed7a3.png",
+    "static/media/Rectangle 1234.png": "/static/media/Rectangle 1234.11977ab32640c2a0c833.png",
+    "static/media/Rectangle 13-1.png": "/static/media/Rectangle 13-1.01b2219e7ead79fb5e91.png",
+    "static/media/Rectangle 13-3.png": "/static/media/Rectangle 13-3.be88de87a03e20730163.png",
+    "static/media/Rectangle 13-6.png": "/static/media/Rectangle 13-6.c5a7e1e7494c4404c60e.png",
+    "static/media/Rectangle 10.png": "/static/media/Rectangle 10.f73263a5dab78b77c466.png",
+    "static/media/Rectangle 13-8.png": "/static/media/Rectangle 13-8.0aa8d775c476bf5bd936.png",
+    "static/media/Rectangle 13-5.png": "/static/media/Rectangle 13-5.25237ed4efb87fd014d1.png",
+    "static/media/Rectangle 9.png": "/static/media/Rectangle 9.e8ac8c2bc898e58c65ab.png",
+    "static/media/Rectangle 13-4.png": "/static/media/Rectangle 13-4.72fcf7d1a22d44e95a6f.png",
+    "static/media/Rectangle 13-7.png": "/static/media/Rectangle 13-7.04354d4a8824fbf2754c.png",
+    "static/media/Rectangle 13.png": "/static/media/Rectangle 13.63a3fc5a935f4b4cc005.png",
+    "static/media/Rectangle 11.png": "/static/media/Rectangle 11.6c6a87935a19a9d134c2.png",
+    "static/media/Rectangle 13-2.png": "/static/media/Rectangle 13-2.dc5e2cca41bd87645ba5.png",
+    "static/media/Ellipse 3-1.png": "/static/media/Ellipse 3-1.3173f57e55da82497c37.png",
+    "static/media/Ellipse 3-2.png": "/static/media/Ellipse 3-2.ed5209d24c38f7b77998.png",
+    "static/media/Ellipse 3.png": "/static/media/Ellipse 3.3667c3bc1ceab40cbaef.png",
+    "index.html": "/index.html",
+    "main.706dcf89.css.map": "/static/css/main.706dcf89.css.map",
+    "main.f23d6bc2.js.map": "/static/js/main.f23d6bc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.706dcf89.css",
+    "static/js/main.f23d6bc2.js"
+  ]
+}
